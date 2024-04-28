@@ -268,6 +268,7 @@ requestAnimationFrame(()=＞{
 - [ ] [跟着我，从0实现React18](https://github.com/BetaSu/big-react)
 - [ ] [「React技术揭秘」 一本自顶向下的React源码分析书](https://github.com/BetaSu/just-react?tab=readme-ov-file)
 - [ ] [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+- [ ] [Angular In Depth](https://github.com/AngularID-CN/AngularID-CN)
 
 ## 手撕
 - [十分钟，带你深入了解 axios 源码实现](https://mp.weixin.qq.com/s/IawaveDYDjEwzJEDB1jNLg)
