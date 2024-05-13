@@ -61,6 +61,7 @@
 - [x] 前端接入前端性能监控
 - [x] 渲染优化、虚拟列表
 - [x] 大文件上传
+- [ ] Modal 滚动穿透
 - [ ] [performance、memory indicator经验](https://mp.weixin.qq.com/s/s4mGvONAs-2BhPEcUOI7Wg)
 - [ ] web 资源在页面空闲时预加载
   - [ ] 页面空闲检测
