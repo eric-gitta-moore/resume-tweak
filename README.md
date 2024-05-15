@@ -33,6 +33,7 @@
 
 ### 内部工具、前端基建
 - [x] vite webpack plugin
+  - [ ] [webpack@4.46.0 源码分析](https://juejin.cn/column/7161609931563466766)
 - [x] devops
 - [x] 推动团队代码规范
 - [x] 技术选型
