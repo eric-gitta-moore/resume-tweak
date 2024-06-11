@@ -123,6 +123,7 @@ requestAnimationFrame(()=＞{
 
 ### 页面改进、用户体验
 - [x] 移动端适配
+  - [ ] [Android 屏幕适配的几种方案以及优缺点总结](https://github.com/samlss/Summary/blob/master/screen_adapter/screen_adapter.md)
 - [ ] pwa
 - [ ] 浏览器缓存 sharedWorker
 - [ ] [前端首屏优化 | 借助客户端能力提升 H5 首屏的 8 个手段](https://mp.weixin.qq.com/s/kYUrysBeVIqph4UAaUCNEA)
