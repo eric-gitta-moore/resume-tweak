@@ -269,6 +269,7 @@ requestAnimationFrame(()=＞{
 
 ### 框架源码
 - [ ] [跟着我，从0实现React18](https://github.com/BetaSu/big-react)
+  - [ ] [React 设计原理](https://github.com/Flashcard8009/front-end-course/blob/main/%E5%85%B6%E4%BB%96/React%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86/React%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86.s.pdf)
 - [ ] [「React技术揭秘」 一本自顶向下的React源码分析书](https://github.com/BetaSu/just-react?tab=readme-ov-file)
 - [ ] [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 - [ ] [Angular In Depth](https://github.com/AngularID-CN/AngularID-CN)
