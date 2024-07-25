@@ -15,6 +15,7 @@
   - [ ] bestofjs
   - [ ] npm trends
   - [ ] npm.devtool
+  - [ ] 选择轮子的 sop https://shanyue.tech/post/package-api.html
 
 ### 团队协作
 - [x] 内部基建、低代码、组件库
