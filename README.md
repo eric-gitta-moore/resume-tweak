@@ -189,7 +189,15 @@ requestAnimationFrame(()=＞{
 - [ ] bun、deno
 - [ ] typescript 增强
 - [ ] tsrpc
-- [ ] 
+- [ ] ast 解析
+  - [从0开始手写 JS Parser (AST)](https://juejin.cn/post/7230257136702111800)
+  - 推荐 Tiny JavaScript parser and generator. [ranlexer](https://github.com/chaxus/ranlexer)
+
+### 计算机基础
+- [ ] 操作系统
+- [ ] 计算机网络
+- [ ] 编译原理
+- [ ] 数据结构
 
 ### 对接第三方平台
 - [ ] wxpay、alipay
