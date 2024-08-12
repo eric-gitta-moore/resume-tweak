@@ -125,7 +125,7 @@ requestAnimationFrame(()=＞{
 ### 页面改进、用户体验
 - [x] 移动端适配
   - [ ] [Android 屏幕适配的几种方案以及优缺点总结](https://github.com/samlss/Summary/blob/master/screen_adapter/screen_adapter.md#6%E4%BF%AE%E6%94%B9density%E5%92%8Cscaleddensity)
-- [ ] 手势识别
+- [ ] 手势识别（双指捏和等）
   - https://github.com/wensiyuanseven/gesture-demo
 - [ ] pwa
 - [ ] 浏览器缓存 sharedWorker
