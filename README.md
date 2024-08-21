@@ -139,6 +139,8 @@ requestAnimationFrame(()=＞{
   - [ ] 无极字体、可变字体
     - [突破限制，CSS font-variation 可变字体的魅力](https://www.cnblogs.com/coco1s/p/15944634.html)
     - 字体系列 css 属性 https://developer.mozilla.org/en-US/docs/Web/CSS/font-variation-settings
+    - [字体大小支持检测](https://www.csie.ntu.edu.tw/~piaip/fontsize/)
+- [ ] 字体拆分重组 opentype.js
 - [ ] CDN
 - [ ] NGINX gzip、brotli
 - [ ] 安全三角、嵌套菜单
