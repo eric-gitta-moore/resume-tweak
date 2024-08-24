@@ -278,6 +278,7 @@ requestAnimationFrame(()=＞{
 - [ ] promise
   - [40道Promise输出题，你都会了吗？](https://juejin.cn/post/7151636219036696613#heading-41)
   - [你不知道的 async、await 魔鬼细节](https://www.tais3.com/javascript/2268.html#:~:text=4%E3%80%81%E6%80%BB%E7%BB%93)
+- [ ] 手写 Promise A+ https://juejin.cn/post/6903725134977171463
 
 ### debug
 - [67 Weird Debugging Tricks Your Browser Doesn't Want You to Know](https://alan.norbauer.com/articles/browser-debugging-tricks)
