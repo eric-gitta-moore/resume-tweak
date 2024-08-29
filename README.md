@@ -2,6 +2,7 @@
 
 ## awesome
 - https://github.com/yangshun/tech-interview-handbook
+- https://github.com/sisterAn/JavaScript-Algorithms
 
 ## 改进方向
 
