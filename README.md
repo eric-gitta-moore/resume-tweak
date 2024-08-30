@@ -271,6 +271,8 @@ requestAnimationFrame(()=＞{
 - [V8、JSCore、Hermes、QuickJS，hybrid开发JS引擎怎么选](https://mp.weixin.qq.com/s/bgcsPc7-l0-u_v65d28qCQ)
 - [Qking：跨端 JS 引擎的深度探索与突破](https://github.com/d2forum/17th/blob/main/12.17/%5B12.17%E4%B8%8B%E5%8D%88%5D%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%8E%86%E7%A8%8B%E4%B8%8E%20Turbopack%20%E6%A6%82%E8%BF%B0-%E8%8C%83%E6%96%87%E6%9D%B0.pdf)
 - [QuickJS 引擎源码解析与实践 - 掘金小册](https://juejin.cn/book/7263025165028556852)
+- [使用 JavaScript 来实现解释器和编译器系列教程](https://github.com/hsiaosiyuan0/icj)
+- [rust 实现的原生 JavaScript 引擎](https://github.com/hsiaosiyuan0/naive)
 
 ### 浏览器组成原理
 - [ ] **https://www.chromium.org/developers/**
