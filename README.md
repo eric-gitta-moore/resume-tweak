@@ -36,6 +36,7 @@
 ### 内部工具、前端基建
 - [x] vite webpack plugin
   - [ ] [webpack@4.46.0 源码分析](https://juejin.cn/column/7161609931563466766)
+- [ ] [关于常用构建工具的一些总结(建议收藏)](https://juejin.cn/post/7128211191293280293)
 - [x] devops
 - [x] 推动团队代码规范
 - [x] 技术选型
