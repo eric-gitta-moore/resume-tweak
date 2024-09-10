@@ -149,6 +149,8 @@ requestAnimationFrame(()=＞{
 - [ ] NGINX gzip、brotli
 - [ ] 安全三角、嵌套菜单
 - [ ] [页面版本更新提示](https://mp.weixin.qq.com/s/PT0PZ3S1Cvh2nltcIKwa3g)
+- CSS 奇淫技巧（真实开发使用）
+  - [CSS魔法！如何将任意CSS类型转换为数值？](https://juejin.cn/post/7289767547330265143)
 
 ### 异常兜底
 - [ ] 页面白屏监控
