@@ -305,6 +305,7 @@ requestAnimationFrame(()=＞{
 - [ ] [Angular In Depth](https://github.com/AngularID-CN/AngularID-CN)
 - [ ] DIFF 算法
   - [深度对比 React 与 Vue 的 Diff 算法](https://mp.weixin.qq.com/s/D_Yh4uTRTa8QeDZHR8KkMw)
+- 自己手写一个 https://github.com/GrinZero/extreme
 
 ## 手撕
 - [十分钟，带你深入了解 axios 源码实现](https://mp.weixin.qq.com/s/IawaveDYDjEwzJEDB1jNLg)
