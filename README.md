@@ -44,6 +44,7 @@
 - [ ] 主推动可视化组件库、规范、流程、团队文化建设
 - [ ] 微前端
   - [微前端源码剖析](https://www.yangyitao.com/microfe/)
+  - 手写 single-spa https://github.com/liyongning/micro-frontend
 - [ ] vscode 研发插件
 - [ ] 大前端统一脚手架
 - [ ] [devtool 跳转 ide](https://mp.weixin.qq.com/s/lW_VWn9dPZyMNgTfHA4Nqw)
