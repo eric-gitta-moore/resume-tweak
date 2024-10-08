@@ -284,6 +284,13 @@ requestAnimationFrame(()=＞{
 - [ ] **https://www.chromium.org/developers/**
 - [ ] [浏览器是如何渲染页面的？](https://open.alipay.com/portal/forum/post/108901030)
 
+#### 排版引擎
+- [手写排版引擎 - 掘金](https://juejin.cn/post/7062168571329118238#heading-16)
+- 
+##### IFC
+- [深入研究 CSS：字体规格、行高和垂直对齐](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
+- [探究fontsize与字体height关系_font 字号的宽高比](https://blog.csdn.net/weixin_44116302/article/details/122692364)
+
 ### 招聘要求
 - [ ] 对某一领域有深入理解包括但不限于$/浏览器内核/性能优化/ reacti源码vue源码
 
