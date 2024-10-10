@@ -271,6 +271,8 @@ requestAnimationFrame(()=＞{
 - [ ] promise.then 中 return Promise.resolve 后，发生了什么？ https://www.zhihu.com/question/453677175/answer/1841325386
 - [ ] V8 Promise源码全面解读 https://juejin.cn/post/7055202073511460895#heading-39
 - [ ] 微任务终极考验，一文讲解async/await转换Promise https://zhuanlan.zhihu.com/p/450906325
+#### V8 重点
+- [tim sort](https://github.com/sisterAn/blog/issues/87)
 
 ### 手搓 js 引擎
 - QuickJS
