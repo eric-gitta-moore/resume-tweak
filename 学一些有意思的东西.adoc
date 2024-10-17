@@ -8,12 +8,10 @@ image::https://github.com/user-attachments/assets/7da6fbe1-cdb8-47a1-9dfc-eb538a
 - https://github.com/EZLippi/Tinyhttpd[Tinyhttpd]
 * 不到 500 行的超轻量型 HTTP Server，可以用来理解服务器程序的原理和本质
 
-- https://hellogithub.com/onefile/code/b4c7642fae544a0f8e7bc8e4d9971d52[the-super-tiny-compiler]
+- https://github.com/jamiebuilds/the-super-tiny-compiler[the-super-tiny-compiler]
 * 人人都能看懂的微型编译器，迷你到除去注注释外，整个文件大约只有 200 行实际代码。
-* https://github.com/jamiebuilds/the-super-tiny-compiler
 ** 掘金文章 https://juejin.cn/post/6844904105937207304[【图文详解】200行JS代码，带你实现代码编译器（人人都能学会）]
-*** js 版本 https://github.com/pingan8787/Leo-JavaScript/blob/master/Cute-Frontend/learningSourceCode/%5Blearning%5Dthe-super-tiny-compiler.js[the-super-tiny-compiler.js]
-*** webpack 版本 https://github.com/pingan8787/Leo-JavaScript/blob/master/Cute-Frontend/learningSourceCode/%5Bwriting%5Dwebpack-compiler.js[webpack-compiler.js]
+** webpack 版本 https://github.com/pingan8787/Leo-JavaScript/blob/master/Cute-Frontend/learningSourceCode/%5Bwriting%5Dwebpack-compiler.js[webpack-compiler.js]
 
 - https://github.com/p8952/bocker[bocker]
 * Docker在大约100行bash中实现
