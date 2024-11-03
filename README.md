@@ -201,6 +201,7 @@ requestAnimationFrame(()=＞{
 ### 基础工具方向
 - [ ] bun、deno
 - [ ] typescript 增强
+  - [类型体操之实现一个类C风格语言的解释器](https://github.com/huanguolin/toc/blob/main/docs/implement-detail.md)
 - [ ] tsrpc
 - [ ] ast 解析
   - [从0开始手写 JS Parser (AST)](https://juejin.cn/post/7230257136702111800)
