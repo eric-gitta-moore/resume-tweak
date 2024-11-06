@@ -287,6 +287,13 @@ requestAnimationFrame(()=＞{
 - [ ] **https://www.chromium.org/developers/**
 - [ ] [浏览器是如何渲染页面的？](https://open.alipay.com/portal/forum/post/108901030)
 
+### 网络 & 协议
+- 手搓 socks5
+  - [实战：150行Go实现高性能socks5代理](https://segmentfault.com/a/1190000038247560)
+  - https://gist.github.com/felix021/7f9d05fa1fd9f8f62cbce9edbdb19253
+- 手搓 Shadowsocks / ShadowsocksR
+  - https://github.com/shadowsocks/go-shadowsocks2
+
 #### 排版引擎
 - [手写排版引擎 - 掘金](https://juejin.cn/post/7062168571329118238#heading-16)
 - [从零开始实现一个玩具版浏览器渲染引擎](https://github.com/woai3c/tiny-rendering-engine)
