@@ -25,6 +25,10 @@
 - [ ] 文档体验优化
   - [ ] [Asciinema 终端录屏](https://mp.weixin.qq.com/s/GLQvRRvVjbtIv1FsDbpsDg)
 
+#### 协作工具
+- 协同富文本编辑器
+  - https://github.com/WindRunnerMax/BlockKit/blob/master/NOTE.md
+
 ### 数据监控、运营管理
 - [x] 使用数据埋点
 - [ ] 开发埋点监控平台、SDK、浏览器 DevTools 插件
